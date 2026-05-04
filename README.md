@@ -15,7 +15,7 @@
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 --- 
 
 ### 💰 Salary Analysis
